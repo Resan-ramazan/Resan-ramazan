@@ -2,9 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resan-ramazan&label=Profile%20views&color=0e75b6&style=flat" alt="resan-ramazan" /> </p>
 <img align="right" width="200px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" alt="resan-ramazan"  />
 - 🌟 I’m interested in Web Development 
+<br>
 - 🌊 I'm currently learning TypeScript & React
+<br>
 - 🏡 I live & study Computer Science in Poznan, Poland 🇵🇱
+<br>
 - 📫 How to contact with me: LinkedIn **ramazan.resan@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
