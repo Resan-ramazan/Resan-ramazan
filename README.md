@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ramazan Reşan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resan-ramazan&label=Profile%20views&color=0e75b6&style=flat" alt="resan-ramazan" /> </p>
-<img align="right" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" alt="resan-ramazan" />
-- 🌊 I'm currently learning **TypeScript%**
-
+<img align="right" width="200px" src="https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/ghsquirrel.gif" alt="resan-ramazan"  />
+- 🌟 I’m interested in Web Development 
+- 🌊 I'm currently learning TypeScript & React
+- 🏡 I live & study Computer Science in Poznan, Poland 🇵🇱
 - 📫 How to contact with me: LinkedIn **ramazan.resan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
