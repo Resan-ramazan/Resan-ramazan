@@ -7,7 +7,7 @@
 <br>
 - 🏡 I live & study Computer Science in Poznan, Poland 🇵🇱
 <br>
-- 📫 How to contact with me:  ramazan.resan@gmail.com
+- 📫 How to contact with me:  ramazanalkoyunn@gmail.com
 <br>
 
 <h3 align="left">Connect with me:</h3>
