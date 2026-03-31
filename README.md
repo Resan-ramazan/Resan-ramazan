@@ -7,7 +7,7 @@
 <br>
 - 🎓 I graduated in Computer Science (2025)
 <br>
-- 🏡 I live in **Lübeck, Germany 🇩🇪
+- 🏡 I live in Lübeck, Germany 🇩🇪
 <br>
 - 📫 How to contact me:  ramazanalkoyunn@gmail.com
 <br>
