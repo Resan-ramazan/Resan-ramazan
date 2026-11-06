@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C47FF&height=200&section=header&text=Ramazan%20Alkoyun&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20React%20Native&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C47FF&height=200&section=header&text=Ramazan%20Alkoyun&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20M.Sc.%20AI%20Student%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Frontend+Developer+%E2%80%94+React+%26+TypeScript+%E2%9A%9B%EF%B8%8F;Mobile+apps+with+React+Native+%26+Expo+%F0%9F%93%B1;My+thesis+app+was+acquired+by+an+EdTech+company+%F0%9F%9A%80;M.Sc.+Artificial+Intelligence+%40+Uni+L%C3%BCbeck+%F0%9F%A4%96;Open+to+Working+Student+roles+%E2%80%94+let's+talk!+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Frontend+Developer+%E2%80%94+React+%26+TypeScript+%E2%9A%9B%EF%B8%8F;Mobile+apps+with+React+Native+%26+Expo+%F0%9F%93%B1;My+thesis+app+was+acquired+by+an+EdTech+company+%F0%9F%9A%80;M.Sc.+Artificial+Intelligence+%40+Uni+L%C3%BCbeck+%F0%9F%A4%96;Building+AI-powered+user+interfaces+%E2%9C%A8;Open+to+Working+Student+roles+%E2%80%94+let's+talk!+%F0%9F%A4%9D" alt="Typing SVG" />
 
 <br/>
 
@@ -34,6 +34,63 @@ Frontend developer focused on **React and TypeScript** who turns ideas into work
 - 💼 **Available now** for regular working-student hours (my M.Sc. runs on weekends/online)
 
 <br clear="right"/>
+
+---
+
+## 🤖 AI Engineering
+
+> **Frontend developer on the way to AI engineering:** I build the interface, and I'm learning to build the intelligence behind it.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚡ Using daily**
+
+- AI coding assistants (Claude Code & co.) in my everyday dev workflow
+- Prompting for code, debugging and refactoring
+- Shipping faster without losing code quality
+- **Generative AI content** for [Fussel](https://fusseluskölle.de): AI voices, AI images and AI video clips edited into short-form episodes
+
+</td>
+<td width="33%" valign="top">
+
+**🎓 Studying**
+
+- **M.Sc. Artificial Intelligence**, University of Lübeck (since Oct 2026)
+- Machine learning foundations
+- ⚛️ **Quantum Computing**
+- 🧮 **Parallel Computing**
+- Python for AI
+
+</td>
+<td width="33%" valign="top">
+
+**🚧 Building next**
+
+- LLM APIs in React apps
+- RAG (chat with your docs)
+- AI agents & tool use
+- AI features for LearnWise
+- 🗓️ **Feb 2027:** Quantum & parallel computing project
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0E75B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-6C47FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-Images_·_Voice_·_Video-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Quantum_Computing-000000?style=for-the-badge&logo=qiskit&logoColor=white" />
+<img src="https://img.shields.io/badge/Parallel_Computing-76B900?style=for-the-badge" />
+
+</div>
 
 ---
 
