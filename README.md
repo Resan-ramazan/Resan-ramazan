@@ -163,6 +163,21 @@ Frontend developer focused on **React and TypeScript** who turns ideas into work
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [Daily Hub](https://github.com/Resan-ramazan/dailyHub)
+<sub>Personal project · 2026 – Present</sub>
+
+Personal automation platform that runs every morning. Python integrations collect job postings from six APIs, and scheduled LLM agents (Claude Code, OpenAI Codex) score them and write tailored CVs and cover letters. It also writes an AI newsletter and daily study lessons, all in a Next.js dashboard. Built AI-first with coding agents.
+
+🔗 **[Code & screenshots](https://github.com/Resan-ramazan/dailyHub)**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎓 [LearnWise](https://github.com/Resan-ramazan/LearnWise)
 <sub>Bachelor's thesis</sub>
 
@@ -177,6 +192,8 @@ Gamified mobile app that teaches HTML, CSS, JavaScript and Python. It has runnab
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🦻 [Hekimoğlu İşitme](https://hekimogluisitme.com.tr)
@@ -188,20 +205,6 @@ Responsive, mobile-first corporate website for a hearing healthcare business. Bu
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Responsive](https://img.shields.io/badge/Mobile--first-0E75B6?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧸 [Fussel](https://fusseluskölle.de)
-<sub>Collaborative project · 2026 – Present</sub>
-
-React frontend for a digital storytelling platform with original stories and characters. I also contribute to the roadmap for content distribution and e-commerce.
-
-🔗 **[fusseluskölle.de](https://fusseluskölle.de)**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
 <td width="50%" valign="top">
