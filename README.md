@@ -27,7 +27,7 @@
 
 Frontend developer focused on **React and TypeScript** who turns ideas into working, responsive UI.
 
-- 🚀 Built and shipped **[LearnWise](https://github.com/Resan-ramazan/LearnWise)**, a cross-platform mobile app tested with **100+ users** and later **acquired by an EdTech company**
+- 🚀 Built and shipped **[LearnWise](https://github.com/Resan-ramazan/LearnWise)**, a cross-platform mobile app that was later **acquired by an EdTech company**
 - 🧩 Experienced with **reusable components, forms, REST APIs and state management**
 - 🤖 Using **AI coding assistants** every day, and studying **M.Sc. Artificial Intelligence** at the University of Lübeck
 - 👨‍🏫 Nearly **4 years of teaching programming**, which made me a clear and open communicator
@@ -183,7 +183,7 @@ Personal automation platform that runs every morning. Python integrations collec
 
 Gamified mobile app that teaches HTML, CSS, JavaScript and Python. It has runnable code examples, timed quizzes, points, a global leaderboard, dark mode and EN/TR/PL languages.
 
-🏆 **100+ users · Acquired by an EdTech company**
+🏆 **Acquired by an EdTech company**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
